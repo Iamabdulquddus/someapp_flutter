@@ -15,6 +15,19 @@ dependencies:
 
   cupertino_icons: ^1.0.2
   sidebarx: ^0.10.0
+  google_fonts: ^3.0.1
+  flutter_svg: ^1.1.4
+  horizontal_list: ^0.0.5
+  url_launcher: ^6.1.5
+  url_strategy: ^0.2.0
+  flutter_custom_clippers: ^2.0.0
+  blobs: ^2.0.0
+  get: ^4.6.5
+  dropdown_button2: ^1.7.2
+  web_smooth_scroll: ^1.0.0
+  scroll_to_id: ^1.5.1
+  im_stepper: ^1.0.1+1
+  accordion: ^2.5.1
 
 dev_dependencies:
   flutter_test:
