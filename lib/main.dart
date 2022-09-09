@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:someapp/routes/routes.dart';
+import 'package:someapp/config//routes.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
 import 'constants/colors.dart';
 import 'package:url_strategy/url_strategy.dart';

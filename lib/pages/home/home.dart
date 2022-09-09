@@ -27,6 +27,7 @@ class _HomePageState extends State<HomePage> {
     var size = MediaQuery.of(context).size;
     return Scaffold(
       drawer: Drawer(),
+      appBar: AppBar(title: Text('Mangwa Loo'   ,),),
       body: Container(
         color: Colors.white,
         height: MediaQuery.of(context).size.height,

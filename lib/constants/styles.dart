@@ -42,11 +42,11 @@ class MyTextStyles{
 
   //red Colors********************************
   static TextStyle sectionTitleLargeRed = TextStyle(
-      color: redColor,
+      color: primary,
       fontSize: 36,
       fontWeight: FontWeight.bold);
   static TextStyle sectionTitleSmallRed = TextStyle(
-      color: redColor,
+      color: primary,
       fontSize: 24,
       fontWeight: FontWeight.bold);
 
@@ -54,28 +54,28 @@ class MyTextStyles{
 
   static TextStyle headingLargeRed = TextStyle(
     fontSize: 20,
-    color: redColor,
+    color: primary,
     fontWeight: FontWeight.bold,
   );
 
   static TextStyle headingSmallRed =TextStyle(
     fontSize: 16,
-    color: redColor,
+    color: primary,
     fontWeight: FontWeight.bold,
   );
 
   static TextStyle subHeadingRed = TextStyle(
-    color: redColor, fontSize: 14,
+    color: primary, fontSize: 14,
   );
 
   static TextStyle regularRed =TextStyle(
     fontSize: 12,
-    color: redColor,
+    color: primary,
   );
 
   static TextStyle xSmallRed =TextStyle(
     fontSize: 12,
-    color: redColor,
+    color: primary,
   );
 
 

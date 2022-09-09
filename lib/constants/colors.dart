@@ -2,29 +2,25 @@ import 'package:flutter/material.dart';
 
 class Palette {
   static const MaterialColor myColors = MaterialColor(
-    0xffe53c38, // 0% comes in here, this will be color picked if no shade is selected
+    0xff65737E, // 0% comes in here, this will be color picked if no shade is selected
     // when defining a Color property which does not require a swatch.
     <int, Color>{
-      50: Color(0xfff5c7c7), //10%
-      100: Color(0xffefa5a5), //20%
-      200: Color(0xffe77d7d), //30%
-      300: Color(0xffe55d5c), //40%
-      400: Color(0xffe74c48), //50%
-      500: Color(0xffe53c38), //60%
-      600: Color(0xffbf2e2b), //70%
-      700: Color(0xff952420), //80%
-      800: Color(0xff74130f), //90%
-      900: Color(0xff52100f), //100%
+      50: Color(0xffE8EBED), //10%
+      100: Color(0xffD2D7DB), //20%
+      200: Color(0xffBCC2C8), //30%
+      300: Color(0xff9BA3AB), //40%
+      400: Color(0xff7A8690), //50%
+      500: Color(0xff65737E), //60%
+      600: Color(0xff49535B), //70%
+      700: Color(0xff373D43), //80%
+      800: Color(0xff373D43), //90%
+      900: Color(0xff121416), //100%
     },
   );
 }
 
-const redColor = Color(0xffe53c38);
-const lightRedColor = Color(0xfff5c7c7);
+
+const primary = Color(0xff65737e);
+const lightRedColor = Color(0xffBCC2C8);
 const wWhiteColor = Colors.white;
 const wDarkBlackColor = Colors.black;
-
-//***********
-
-const double defaultPadding = 20;
-const double sizeSpace = 20;
