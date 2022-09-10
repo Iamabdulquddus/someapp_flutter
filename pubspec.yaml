@@ -15,9 +15,10 @@ dependencies:
 
   cupertino_icons: ^1.0.2
   flutter_svg: ^1.1.4
+  equatable: ^2.0.5
 #  horizontal_list: ^0.0.5
 #  url_launcher: ^6.1.5
-#  url_strategy: ^0.2.0
+  url_strategy: ^0.2.0
 #  flutter_custom_clippers: ^2.0.0
 #  blobs: ^2.0.0
   get: ^4.6.5
@@ -40,6 +41,8 @@ flutter:
 
   assets:
     - assets/images/
+    - assets/icons/delivery/
+    - assets/icons/menu/
 
  
   # fonts:

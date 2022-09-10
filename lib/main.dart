@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
 import 'package:someapp/config//routes.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
 import 'constants/colors.dart';
@@ -20,7 +19,7 @@ class MangaLoo extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Palette.myColors,
         visualDensity: VisualDensity.adaptivePlatformDensity,
-        fontFamily: GoogleFonts.poppins().fontFamily,
+
       ),
       initialRoute: MyRoutes.getHomeRoute(),
       getPages: MyRoutes.appRoutes(),

@@ -2,7 +2,6 @@
 
 import 'package:flutter/material.dart';
 import '../../constants/colors.dart';
-import 'package:web_smooth_scroll/web_smooth_scroll.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
