@@ -16,27 +16,27 @@ class Category extends Equatable {
     Category(
       id: 1,
       name: 'Pizza',
-      image: Image.asset('assets/icons/menu/hamburger.png'),
+      image: Image.asset('assets/icons/menu/pizza.png'),
     ),
     Category(
       id: 2,
       name: 'Burger',
-      image: Image.asset('assets/icons/menu/hamburger.png'),
+      image: Image.asset('assets/icons/menu/burger.png'),
     ),
     Category(
       id: 3,
       name: 'Salad',
-      image: Image.asset('assets/icons/menu/hamburger.png'),
+      image: Image.asset('assets/icons/menu/salad.png'),
     ),
     Category(
       id: 4,
       name: 'Dessert',
-      image: Image.asset('assets/icons/menu/hamburger.png'),
+      image: Image.asset('assets/icons/menu/dessert.png'),
     ),
     Category(
       id: 5,
       name: 'Drink',
-      image: Image.asset('assets/icons/menu/hamburger.png'),
+      image: Image.asset('assets/icons/menu/drink.png'),
     ),
   ];
 }
